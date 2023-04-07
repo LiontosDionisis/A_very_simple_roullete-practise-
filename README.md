@@ -5,6 +5,5 @@ I'm building a very simple roullete to practice python
 Made a betting system
 
 **WILL UPDATE**
-1)Update the betting system for user mistakes
-3)Update the code to prevent some user mistakes
+1)Update the code to prevent some user mistakes
 2)Clear the log
