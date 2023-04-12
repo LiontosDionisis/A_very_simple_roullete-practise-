@@ -3,7 +3,7 @@
 **UPDATE**
 1)Made a betting system
 
-2)Fixed some possible error from user input mistakes
+2)Fixed some possible errors from user input mistakes
 
 **WILL UPDATE**
 
